@@ -191,3 +191,46 @@ git remote add origin git@gitee.com:niuheshui/sadf.git
 git push -u origin "master"
 ```
 
+## Git清除历史记录
+
+1. 创建孤立分支
+
+   ```shell
+   $ git checkout --orphan new_branch
+   ```
+
+   > 在Git中，git checkout --orphan <branch>命令用于创建一个新的分支，该分支与当前分支没有共同的历史记录。这个新分支被称为孤立分支（orphan branch）。                                                         	          ---GPT
+
+2.  添加文件
+
+   ```shell
+   $ git add -A
+   ```
+
+   > git add -A命令用于将所有修改过的文件和删除的文件添加到Git的暂存区（staging area）中，以便在下一次提交时包含这些更改。      ---GPT
+
+3.  提交记录
+
+   ```shell
+   $ git commit -m 'new version'
+   ```
+
+4.  删除需要删除历史记录的分支
+
+   ```shell
+   $ git branch -d ord_branch
+   ```
+
+5.  将当前分支重命名
+
+   ```shell
+   $ git branch -m ord_branch
+   ```
+
+6. 强制更新远程仓库
+
+   ```shell
+   $ git push -f origin ord_branch
+   ```
+
+   

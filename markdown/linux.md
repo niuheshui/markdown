@@ -114,7 +114,7 @@ apt-get install llvm               # llvm project, which contains libraries used
 
    
 
-# Ubuntu UEFI & BIOS U盘双启动
+# Ubuntu UEFI & BIOS [U To Go]
 
 ## 新建虚拟机
 
@@ -252,7 +252,7 @@ options
 3: 黄
 4: 蓝
 5: 紫
-6: 绿 
+6: 青 
 7: 白 
 +30 深色字体 +90  亮色字体
 +40 深色背景 +100 亮色背景

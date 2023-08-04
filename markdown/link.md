@@ -1,4 +1,4 @@
-# 链接大全
+# 一些有趣的网站
 
 [Yanyan's Wiki (jyywiki.cn)](https://jyywiki.cn/)
 
@@ -27,3 +27,13 @@ https://www.gnu.org/software/
 [Stack Overflow - Where Developers Learn, Share, & Build Careers](https://stackoverflow.com/)
 
 [计算机教育中缺失的一课 · the missing semester of your cs education (missing-semester-cn.github.io)](https://missing-semester-cn.github.io/)
+
+[Explain Git with D3 (onlywei.github.io)](http://onlywei.github.io/explain-git-with-d3/)
+
+[Qwerty Learner (kaiyi.cool)](https://qwerty.kaiyi.cool/)
+
+[nju-projectn.github.io/ics-pa-gitbook/](https://nju-projectn.github.io/ics-pa-gitbook/)
+
+[CS自学指南 (csdiy.wiki)](https://csdiy.wiki/)
+
+[Yanyan's Wiki (jyywiki.cn)](https://jyywiki.cn/)
