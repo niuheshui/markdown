@@ -37,3 +37,9 @@ https://www.gnu.org/software/
 [CS自学指南 (csdiy.wiki)](https://csdiy.wiki/)
 
 [Yanyan's Wiki (jyywiki.cn)](https://jyywiki.cn/)
+
+[学习 C 和C++编程 - Cprogramming.com](https://www.cprogramming.com/)
+
+[Linux C编程一站式学习 (huihoo.com)](https://docs.huihoo.com/c/linux-c-programming/)
+
+[开源世界旅行手册 (linuxtoy.org)](https://i.linuxtoy.org/docs/guide/index.html)
