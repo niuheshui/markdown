@@ -2,7 +2,7 @@
 
 [Yanyan's Wiki (jyywiki.cn)](https://jyywiki.cn/)
 
-[Introduction · GitBook (nju-projectn.github.io)](https://nju-projectn.github.io/ics-pa-gitbook/ics2021/)
+[PA (nju-projectn.github.io)](https://nju-projectn.github.io/ics-pa-gitbook/ics2021/)
 
 https://www.gnu.org/software/
 
@@ -10,7 +10,9 @@ https://www.gnu.org/software/
 
 [Emacs China (emacs-china.org)](https://emacs-china.org/)
 
-[SMS-Activate是在线接受短信的虚拟号码服务](https://sms-activate.org/cn)
+[我的Wiki： 首页 (emacswiki.org)](https://www.emacswiki.org/emacs?interface=zh-cn)
+
+[虚拟号码](https://sms-activate.org/cn)
 
 [The International Obfuscated C Code Contest (ioccc.org)](https://www.ioccc.org/)
 
@@ -32,8 +34,6 @@ https://www.gnu.org/software/
 
 [Qwerty Learner (kaiyi.cool)](https://qwerty.kaiyi.cool/)
 
-[nju-projectn.github.io/ics-pa-gitbook/](https://nju-projectn.github.io/ics-pa-gitbook/)
-
 [CS自学指南 (csdiy.wiki)](https://csdiy.wiki/)
 
 [Yanyan's Wiki (jyywiki.cn)](https://jyywiki.cn/)
@@ -43,3 +43,17 @@ https://www.gnu.org/software/
 [Linux C编程一站式学习 (huihoo.com)](https://docs.huihoo.com/c/linux-c-programming/)
 
 [开源世界旅行手册 (linuxtoy.org)](https://i.linuxtoy.org/docs/guide/index.html)
+
+[regex101: build, test, and debug regex](https://regex101.com/)
+
+https://chat.forefront.ai/
+
+[OI Wiki - OI Wiki (oi-wiki.org)](https://oi-wiki.org/)
+
+[盲打](https://www.keybr.com/)
+
+[Index of /~remzi/OSTEP/Chinese (wisc.edu)](https://pages.cs.wisc.edu/~remzi/OSTEP/Chinese/)
+
+[Git练习](https://learngitbranching.js.org/)
+
+[Z-Library](https://lib-ehxhhwdiqtgd4yzbtzlnqhet.mountain.pm/)
