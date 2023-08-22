@@ -57,3 +57,5 @@ https://chat.forefront.ai/
 [Git练习](https://learngitbranching.js.org/)
 
 [Z-Library](https://lib-ehxhhwdiqtgd4yzbtzlnqhet.mountain.pm/)
+
+[快速简便的 tmux 指南 (hamvocke.com)](https://www.hamvocke.com/blog/a-quick-and-easy-guide-to-tmux/)
