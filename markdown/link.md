@@ -59,3 +59,5 @@ https://chat.forefront.ai/
 [Z-Library](https://lib-ehxhhwdiqtgd4yzbtzlnqhet.mountain.pm/)
 
 [快速简便的 tmux 指南 (hamvocke.com)](https://www.hamvocke.com/blog/a-quick-and-easy-guide-to-tmux/)
+
+[Python Tutor：通过可视化代码学习 Python、JavaScript、C、C++ 和 Java 编程](https://pythontutor.com/)
