@@ -63,3 +63,5 @@ https://chat.forefront.ai/
 [Python Tutor：通过可视化代码学习 Python、JavaScript、C、C++ 和 Java 编程](https://pythontutor.com/)
 
 https://zh.cppreference.com/
+
+[Dive Into Python 3 (getpython3.com)](http://getpython3.com/diveintopython3/index.html)
