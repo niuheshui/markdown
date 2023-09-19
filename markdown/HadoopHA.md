@@ -326,11 +326,15 @@ hadoop@node2:~$ hdfs --daemon start journalnode
 ```bash
 hadoop@node3:~$ hdfs --daemon start journalnode
 ```
+### 初始化namenode
+```bash
+hadoop@node1:~$ hdfs namenode -format
+```
 
 ### 启动namenode
 
 ```bash
-hadoop@node1:~$ hdfs namenode
+hadoop@node1:~$ hdfs namenode or hadoop-daemon.sh start namenode
 ```
 
 ### 同步namenode
