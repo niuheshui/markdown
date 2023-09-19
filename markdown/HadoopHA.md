@@ -731,4 +731,4 @@ do
 done
 ```
 ## 参考
-[zk ssh报错导致无法自动切换namenode]https://www.cnblogs.com/simple-li/p/14654812.html
+[zk ssh报错导致无法自动切换namenode](https://www.cnblogs.com/simple-li/p/14654812.html)
