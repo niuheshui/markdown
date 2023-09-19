@@ -730,3 +730,5 @@ do
     ssh $i "source /etc/profile; /opt/module/zookeeper-3.5.7/bin/zkServer.sh $1"
 done
 ```
+## 参考
+[zk ssh报错导致无法自动切换namenode]https://www.cnblogs.com/simple-li/p/14654812.html
