@@ -67,3 +67,5 @@ https://zh.cppreference.com/
 [Dive Into Python 3 (getpython3.com)](http://getpython3.com/diveintopython3/index.html)
 
 [Algorithms, 4th Edition by Robert Sedgewick and Kevin Wayne (princeton.edu)](https://algs4.cs.princeton.edu/home/)
+
+[time](https://time.is/zh/Beijing)
