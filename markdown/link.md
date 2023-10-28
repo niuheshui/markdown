@@ -69,3 +69,5 @@ https://zh.cppreference.com/
 [Algorithms, 4th Edition by Robert Sedgewick and Kevin Wayne (princeton.edu)](https://algs4.cs.princeton.edu/home/)
 
 [time](https://time.is/zh/Beijing)
+
+https://algorithmist.com/wiki/Main_Page
