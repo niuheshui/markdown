@@ -71,3 +71,5 @@ https://zh.cppreference.com/
 [time](https://time.is/zh/Beijing)
 
 https://algorithmist.com/wiki/Main_Page
+
+[Awesome Wallpapers - wallhaven.cc](https://wallhaven.cc/)
